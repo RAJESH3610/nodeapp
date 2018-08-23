@@ -1,0 +1,11 @@
+{
+ "name":"The Bathinda National Fertilizer Employee Co-operative House Building Society",
+"description":"A web Application for NFECScociety Bathinda.",
+"keywords": [
+    "Bathinda",
+    "NFECSociety",
+    "Society",
+    "Colony"
+],
+"image":"heroku/nodejs"
+}
